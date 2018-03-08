@@ -1,4 +1,4 @@
-FROM php:7.2-fpm-alpine3.6
+FROM php:7.2-fpm-alpine3.7
 
 MAINTAINER "Andrew McLagan " <andrew@ethicaljobs.com.au>
 
